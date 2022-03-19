@@ -4,4 +4,4 @@ This is a sample readme file
 
 ## Heading 2
 
-This is bound to cause truble
+Just something going on
